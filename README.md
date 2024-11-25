@@ -7,3 +7,5 @@ This report presents an investigation into enhancing the computational efficienc
 ## Acknowledgements
 
 This work was conducted by Aayush Kucheria in a summer internship in the Multi-source probabilistic inference (MUPI) research group at the University of Helsinki. It was done under the project “AI for Ultrasonics”, with the supervision of Arto Klami and Denys Iablonskyi. 
+
+Full report [here](https://github.com/AayushKucheria/Gaussian-Modeling-Uni-Helsinki-/blob/main/Investigating%20and%20Enhancing%20Gaussian%20Process-based%20Fouling%20Detection%20Systems.pdf).
